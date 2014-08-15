@@ -89,7 +89,7 @@ Samson can use custom GitHub endpoints if, for example, you are using GitHub ent
 
 ##### Google OAuth (optional)
 
-*GOOGLE_CLIENT_ID* and *GOOGLE_CLIENT_SECRET*
+*GOOGLE_CLIENT_ID* and *GOOGLE_SECRET*
 
 * Navigate to https://console.developers.google.com/project and create a new project
 * Enter a name and a unique project id
